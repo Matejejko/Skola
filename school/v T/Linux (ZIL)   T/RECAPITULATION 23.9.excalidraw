@@ -538,7 +538,7 @@
     {
       "type": "text",
       "version": 437,
-      "versionNonce": 1761438806,
+      "versionNonce": 740444977,
       "isDeleted": false,
       "id": "LsC2hxk6GWA5_2sI44xww",
       "fillStyle": "hachure",
@@ -563,7 +563,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1727199298003,
+      "updated": 1727257386982,
       "link": null,
       "locked": false,
       "fontSize": 52.358476108850326,
@@ -579,7 +579,7 @@
     {
       "type": "text",
       "version": 389,
-      "versionNonce": 1092529162,
+      "versionNonce": 1449131103,
       "isDeleted": false,
       "id": "MDV5OgLFgRoQAiE5XAZPz",
       "fillStyle": "hachure",
@@ -604,7 +604,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1727199298004,
+      "updated": 1727257386984,
       "link": null,
       "locked": false,
       "fontSize": 52.358476108850304,
@@ -620,7 +620,7 @@
     {
       "type": "text",
       "version": 396,
-      "versionNonce": 1719234966,
+      "versionNonce": 1022606609,
       "isDeleted": false,
       "id": "Y78R8qmb-xOB1lFQtz0uB",
       "fillStyle": "hachure",
@@ -645,7 +645,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1727199298004,
+      "updated": 1727257386984,
       "link": null,
       "locked": false,
       "fontSize": 52.358476108850304,
@@ -661,7 +661,7 @@
     {
       "type": "text",
       "version": 403,
-      "versionNonce": 1832950474,
+      "versionNonce": 184490111,
       "isDeleted": false,
       "id": "Dgx6woQ5416JqT_Uw3524",
       "fillStyle": "hachure",
@@ -686,7 +686,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1727199298005,
+      "updated": 1727257386985,
       "link": null,
       "locked": false,
       "fontSize": 52.35847610885031,
@@ -702,7 +702,7 @@
     {
       "type": "text",
       "version": 405,
-      "versionNonce": 2026032854,
+      "versionNonce": 2054943473,
       "isDeleted": false,
       "id": "6IaQDoTvkkQYIkTbWDCEw",
       "fillStyle": "hachure",
@@ -727,7 +727,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1727199298006,
+      "updated": 1727257386985,
       "link": null,
       "locked": false,
       "fontSize": 52.35847610885031,
@@ -743,7 +743,7 @@
     {
       "type": "text",
       "version": 392,
-      "versionNonce": 79081866,
+      "versionNonce": 1906684063,
       "isDeleted": false,
       "id": "F_6dt_8j5GuC4BkgtOsSm",
       "fillStyle": "hachure",
@@ -768,7 +768,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1727199298006,
+      "updated": 1727257386986,
       "link": null,
       "locked": false,
       "fontSize": 52.358476108850304,
@@ -897,7 +897,7 @@
     {
       "type": "text",
       "version": 105,
-      "versionNonce": 1282311190,
+      "versionNonce": 692219089,
       "isDeleted": false,
       "id": "mS9GCJiKacPoqRP1g1usP",
       "fillStyle": "solid",
@@ -917,7 +917,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298008,
+      "updated": 1727257386987,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -928,7 +928,7 @@
       "containerId": null,
       "originalText": "linux",
       "lineHeight": 1.25,
-      "baseline": 25
+      "baseline": 24
     },
     {
       "type": "arrow",
@@ -1335,7 +1335,7 @@
     {
       "type": "text",
       "version": 130,
-      "versionNonce": 1522266186,
+      "versionNonce": 1409565887,
       "isDeleted": false,
       "id": "CYayLgLhfycOKEhaddJPj",
       "fillStyle": "solid",
@@ -1355,7 +1355,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298008,
+      "updated": 1727257386989,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1366,12 +1366,12 @@
       "containerId": null,
       "originalText": "komandy",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "text",
       "version": 150,
-      "versionNonce": 863080790,
+      "versionNonce": 283028145,
       "isDeleted": false,
       "id": "wmiCDGkX_bpbfzEZZPyJD",
       "fillStyle": "hachure",
@@ -1391,7 +1391,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298009,
+      "updated": 1727257386990,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1402,12 +1402,12 @@
       "containerId": null,
       "originalText": "pripojenie na server",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 173,
-      "versionNonce": 590042890,
+      "versionNonce": 1908102367,
       "isDeleted": false,
       "id": "dhcTjp36E5wx-jS5IW-Js",
       "fillStyle": "hachure",
@@ -1427,7 +1427,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298010,
+      "updated": 1727257386991,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1438,12 +1438,12 @@
       "containerId": null,
       "originalText": "ssh -l (               ) (           )",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 151,
-      "versionNonce": 2032203414,
+      "versionNonce": 435694737,
       "isDeleted": false,
       "id": "UkQLYV0RLKyO3FXYBYI57",
       "fillStyle": "hachure",
@@ -1463,7 +1463,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298011,
+      "updated": 1727257386992,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1474,12 +1474,12 @@
       "containerId": null,
       "originalText": "meno uživatela",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 128,
-      "versionNonce": 1585440202,
+      "versionNonce": 1113284863,
       "isDeleted": false,
       "id": "1T1yRIo_Z6GJSiDZmUrXx",
       "fillStyle": "hachure",
@@ -1499,7 +1499,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298011,
+      "updated": 1727257386993,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1510,12 +1510,12 @@
       "containerId": null,
       "originalText": "ip adresa",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 157,
-      "versionNonce": 909226966,
+      "versionNonce": 742814321,
       "isDeleted": false,
       "id": "EPpyjhcUUX31R6QVv_W19",
       "fillStyle": "hachure",
@@ -1535,7 +1535,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298012,
+      "updated": 1727257386994,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1546,12 +1546,12 @@
       "containerId": null,
       "originalText": "napríklad: ssh -l student 18.175.188.152",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 115,
-      "versionNonce": 1171561610,
+      "versionNonce": 2003101983,
       "isDeleted": false,
       "id": "nydxyfYQwbwS1xEJoFY0P",
       "fillStyle": "hachure",
@@ -1571,7 +1571,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298013,
+      "updated": 1727257386994,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1582,12 +1582,12 @@
       "containerId": null,
       "originalText": "premena používatela",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 168,
-      "versionNonce": 616089878,
+      "versionNonce": 1284570193,
       "isDeleted": false,
       "id": "RjcGpJmT4cLcI3C86yu7B",
       "fillStyle": "hachure",
@@ -1612,7 +1612,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1727199298013,
+      "updated": 1727257386995,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1623,12 +1623,12 @@
       "containerId": null,
       "originalText": "su -",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 231,
-      "versionNonce": 920943434,
+      "versionNonce": 1044933951,
       "isDeleted": false,
       "id": "VYJy8yaixoicQksAQsh_0",
       "fillStyle": "hachure",
@@ -1648,7 +1648,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298013,
+      "updated": 1727257386995,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1659,12 +1659,12 @@
       "containerId": null,
       "originalText": "ak pridame \" - \" presunie nás to z aktuálneho enviromentu do\n                 \"home\" usera na kt. sa pripojime ",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 42
     },
     {
       "type": "text",
       "version": 84,
-      "versionNonce": 1948989014,
+      "versionNonce": 2058308145,
       "isDeleted": false,
       "id": "yjJSOu4rJ1RqP0R6BEzqp",
       "fillStyle": "hachure",
@@ -1689,7 +1689,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1727199298014,
+      "updated": 1727257386996,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1700,12 +1700,12 @@
       "containerId": null,
       "originalText": "su",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 133,
-      "versionNonce": 537559562,
+      "versionNonce": 1114008927,
       "isDeleted": false,
       "id": "I9aIAGI_Ok55J6VTIZY_i",
       "fillStyle": "hachure",
@@ -1730,7 +1730,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1727199298014,
+      "updated": 1727257386996,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1741,7 +1741,7 @@
       "containerId": null,
       "originalText": "len premena uživateľa",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -1796,7 +1796,7 @@
     {
       "type": "text",
       "version": 184,
-      "versionNonce": 492698518,
+      "versionNonce": 1334369297,
       "isDeleted": false,
       "id": "EAhfy6LLla2Vw155bTYVT",
       "fillStyle": "hachure",
@@ -1821,7 +1821,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1727199298015,
+      "updated": 1727257386997,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1832,7 +1832,7 @@
       "containerId": null,
       "originalText": "premena uzivatela a presun do jeho home foldera",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -1887,7 +1887,7 @@
     {
       "type": "text",
       "version": 107,
-      "versionNonce": 1816244426,
+      "versionNonce": 1863281023,
       "isDeleted": false,
       "id": "JQZuZptp9sshxO3I7_x6B",
       "fillStyle": "hachure",
@@ -1907,7 +1907,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298015,
+      "updated": 1727257386997,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1918,12 +1918,12 @@
       "containerId": null,
       "originalText": "su - mpapaj atď.",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 234,
-      "versionNonce": 914757846,
+      "versionNonce": 1528115697,
       "isDeleted": false,
       "id": "Y48ZbD7lQrYchGCTXaJKU",
       "fillStyle": "hachure",
@@ -1943,7 +1943,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298016,
+      "updated": 1727257386998,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1954,12 +1954,12 @@
       "containerId": null,
       "originalText": "ak mešpecifikujeme (uživateľa) bude sa nás to snažiť dať do roota",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 110,
-      "versionNonce": 1864697738,
+      "versionNonce": 1904468383,
       "isDeleted": false,
       "id": "K_3xq609nek-q86N_ybp1",
       "fillStyle": "hachure",
@@ -1979,7 +1979,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298016,
+      "updated": 1727257386998,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1990,12 +1990,12 @@
       "containerId": null,
       "originalText": "ak pred \"su\" použijeme ",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 72,
-      "versionNonce": 1194888726,
+      "versionNonce": 1113312209,
       "isDeleted": false,
       "id": "RnrRIE832_8H5hIQmY4u1",
       "fillStyle": "hachure",
@@ -2015,7 +2015,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298017,
+      "updated": 1727257386999,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2026,12 +2026,12 @@
       "containerId": null,
       "originalText": "sudo",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 219,
-      "versionNonce": 1357874762,
+      "versionNonce": 2062833087,
       "isDeleted": false,
       "id": "oz1Vlrs1dz1yfLuEXyzqu",
       "fillStyle": "hachure",
@@ -2051,7 +2051,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298019,
+      "updated": 1727257387002,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2062,12 +2062,12 @@
       "containerId": null,
       "originalText": "vieme obísť potrebu vpisovania hesla daného \nuživateľa. ALE musíme vpísať heslo UŽIVATEĽA\nKT. PRÁVE POUŽÍVAME",
       "lineHeight": 1.25,
-      "baseline": 68
+      "baseline": 67
     },
     {
       "type": "text",
       "version": 200,
-      "versionNonce": 476732246,
+      "versionNonce": 494152113,
       "isDeleted": false,
       "id": "NvmJuD7puoW7qIBjVcbmr",
       "fillStyle": "cross-hatch",
@@ -2087,7 +2087,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298020,
+      "updated": 1727257387003,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2098,7 +2098,7 @@
       "containerId": null,
       "originalText": "sudo su @meno\nvypita to heslo uživateľa ktr. sme do teraz maly",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 42
     },
     {
       "type": "arrow",
@@ -2189,7 +2189,7 @@
     {
       "type": "text",
       "version": 150,
-      "versionNonce": 2054958346,
+      "versionNonce": 1115768287,
       "isDeleted": false,
       "id": "3XevlZp32p0HwQzNecU2Z",
       "fillStyle": "hachure",
@@ -2209,7 +2209,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298020,
+      "updated": 1727257387004,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2220,12 +2220,12 @@
       "containerId": null,
       "originalText": "-l (username) -- specifies the username\n                 to use when logging into remote \n                 host",
       "lineHeight": 1.25,
-      "baseline": 68
+      "baseline": 67
     },
     {
       "type": "text",
       "version": 186,
-      "versionNonce": 477134998,
+      "versionNonce": 361089937,
       "isDeleted": false,
       "id": "vbYOlXwOQrHH8NWoqvx6j",
       "fillStyle": "hachure",
@@ -2245,7 +2245,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298021,
+      "updated": 1727257387005,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2256,7 +2256,7 @@
       "containerId": null,
       "originalText": "ssh  (secure shell) used for connecting to \n                    remote machine",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 42
     },
     {
       "type": "arrow",
@@ -2376,7 +2376,7 @@
     {
       "type": "text",
       "version": 269,
-      "versionNonce": 21363658,
+      "versionNonce": 1195061759,
       "isDeleted": false,
       "id": "YmjN1iWHFfqKOFENln7uM",
       "fillStyle": "hachure",
@@ -2398,7 +2398,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298022,
+      "updated": 1727257387005,
       "link": null,
       "locked": false,
       "fontSize": 20.000000000000004,
@@ -2409,12 +2409,12 @@
       "containerId": null,
       "originalText": "vytvorenie a zmazanie uživatela",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 48,
-      "versionNonce": 452984278,
+      "versionNonce": 1120416113,
       "isDeleted": false,
       "id": "BgOEc3VMs4aRqTz9op3JZ",
       "fillStyle": "hachure",
@@ -2434,7 +2434,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298022,
+      "updated": 1727257387006,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2445,12 +2445,12 @@
       "containerId": null,
       "originalText": "vytvorenie",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 119,
-      "versionNonce": 325579402,
+      "versionNonce": 1377999391,
       "isDeleted": false,
       "id": "Q4YMzFNLnjy12eQrItE1-",
       "fillStyle": "hachure",
@@ -2470,7 +2470,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298023,
+      "updated": 1727257387006,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2481,12 +2481,12 @@
       "containerId": null,
       "originalText": "useradd -c \"Meno Priezvisko\" -s /bin/bash -m mpriezvisko",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 24,
-      "versionNonce": 757977878,
+      "versionNonce": 1250089809,
       "isDeleted": false,
       "id": "XxCy909NjOIRJl17CYDvi",
       "fillStyle": "hachure",
@@ -2506,7 +2506,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298023,
+      "updated": 1727257387007,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2517,12 +2517,12 @@
       "containerId": null,
       "originalText": "useradd ",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 83,
-      "versionNonce": 1671237962,
+      "versionNonce": 942145087,
       "isDeleted": false,
       "id": "qnt71c67T_6I_jk0ST5tE",
       "fillStyle": "hachure",
@@ -2542,7 +2542,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298024,
+      "updated": 1727257387007,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2553,12 +2553,12 @@
       "containerId": null,
       "originalText": "- komand na pridanie nového použivateľa",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 44,
-      "versionNonce": 2104426582,
+      "versionNonce": 1024280881,
       "isDeleted": false,
       "id": "2CY6Eqrbat1u-i9BvPoJs",
       "fillStyle": "hachure",
@@ -2578,7 +2578,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298025,
+      "updated": 1727257387007,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2589,12 +2589,12 @@
       "containerId": null,
       "originalText": "-c \"Meno Pr...\"",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 82,
-      "versionNonce": 356538378,
+      "versionNonce": 1546378847,
       "isDeleted": false,
       "id": "U1_IIOD_Ik4icgUgkBV7M",
       "fillStyle": "hachure",
@@ -2614,7 +2614,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298025,
+      "updated": 1727257387008,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2625,12 +2625,12 @@
       "containerId": null,
       "originalText": "- \"-c\" je na pridanie komentára, popisku",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 71,
-      "versionNonce": 530089366,
+      "versionNonce": 869202705,
       "isDeleted": false,
       "id": "MJVrhUzTs_sTyTdMNko6L",
       "fillStyle": "hachure",
@@ -2650,7 +2650,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298027,
+      "updated": 1727257387011,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -2661,12 +2661,12 @@
       "containerId": null,
       "originalText": "tipicky je zobrazený v /etc/passwd",
       "lineHeight": 1.25,
-      "baseline": 14
+      "baseline": 13
     },
     {
       "type": "text",
       "version": 36,
-      "versionNonce": 676120266,
+      "versionNonce": 1895742079,
       "isDeleted": false,
       "id": "Lcjfs7zimQsRWmWDPdloS",
       "fillStyle": "hachure",
@@ -2686,7 +2686,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298027,
+      "updated": 1727257387011,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2697,12 +2697,12 @@
       "containerId": null,
       "originalText": "-s /bin/bash",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 124,
-      "versionNonce": 1692361430,
+      "versionNonce": 792686833,
       "isDeleted": false,
       "id": "55RaiWE2iUBgXyen1CeYE",
       "fillStyle": "hachure",
@@ -2722,7 +2722,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298027,
+      "updated": 1727257387012,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2733,12 +2733,12 @@
       "containerId": null,
       "originalText": "- \"-s\" \"login shell\" špecifikuje kde bude uživateľ keď sa pripojí",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 59,
-      "versionNonce": 1700617610,
+      "versionNonce": 2069959327,
       "isDeleted": false,
       "id": "VMEdz0QwiVVfYmD9E-OzQ",
       "fillStyle": "hachure",
@@ -2758,7 +2758,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298028,
+      "updated": 1727257387012,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2769,12 +2769,12 @@
       "containerId": null,
       "originalText": "-m",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 139,
-      "versionNonce": 802723862,
+      "versionNonce": 887499473,
       "isDeleted": false,
       "id": "8HsYsOfGf3pRRNQuPG7yQ",
       "fillStyle": "hachure",
@@ -2794,7 +2794,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298028,
+      "updated": 1727257387012,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2805,12 +2805,12 @@
       "containerId": null,
       "originalText": "- ujistuje sa o to že \"home directory\" je vytvorené pre nového používateľa",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 16,
-      "versionNonce": 1236081738,
+      "versionNonce": 335767231,
       "isDeleted": false,
       "id": "fQAgLE4mXlVMcgnAFSEC6",
       "fillStyle": "hachure",
@@ -2830,7 +2830,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298028,
+      "updated": 1727257387013,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2841,12 +2841,12 @@
       "containerId": null,
       "originalText": "mpriezvisko",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 83,
-      "versionNonce": 1215898966,
+      "versionNonce": 760916145,
       "isDeleted": false,
       "id": "CTAvrcT70pka3ZtjJpWtB",
       "fillStyle": "hachure",
@@ -2866,7 +2866,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298029,
+      "updated": 1727257387013,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2877,7 +2877,7 @@
       "containerId": null,
       "originalText": "- \"username\" pre tento účet",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -2934,7 +2934,7 @@
     {
       "type": "text",
       "version": 70,
-      "versionNonce": 1930887946,
+      "versionNonce": 1770403551,
       "isDeleted": false,
       "id": "WHGplsA7bd_mko4bZUsWT",
       "fillStyle": "hachure",
@@ -2954,7 +2954,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298029,
+      "updated": 1727257387014,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2965,7 +2965,7 @@
       "containerId": null,
       "originalText": "zmazanie",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -3058,7 +3058,7 @@
     {
       "type": "text",
       "version": 44,
-      "versionNonce": 806750870,
+      "versionNonce": 38038161,
       "isDeleted": false,
       "id": "kkWgXnXzaMrNdahnkBWlk",
       "fillStyle": "hachure",
@@ -3078,7 +3078,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298029,
+      "updated": 1727257387014,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3089,7 +3089,7 @@
       "containerId": null,
       "originalText": "user -r USERNAME",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -3138,7 +3138,7 @@
     {
       "type": "text",
       "version": 42,
-      "versionNonce": 202772938,
+      "versionNonce": 41550591,
       "isDeleted": false,
       "id": "Nf20uo6QP9cHrHwezq-dm",
       "fillStyle": "hachure",
@@ -3158,7 +3158,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298030,
+      "updated": 1727257387014,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3169,12 +3169,12 @@
       "containerId": null,
       "originalText": "userdel",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 84,
-      "versionNonce": 1969506262,
+      "versionNonce": 2086334577,
       "isDeleted": false,
       "id": "19gR1qa21o3jdVpDIVLIY",
       "fillStyle": "hachure",
@@ -3194,7 +3194,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298030,
+      "updated": 1727257387015,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3205,12 +3205,12 @@
       "containerId": null,
       "originalText": "- komand na zmazanie použivateľa",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 59,
-      "versionNonce": 935676042,
+      "versionNonce": 1063209759,
       "isDeleted": false,
       "id": "P47oGbg_P5wXVjNV09-YV",
       "fillStyle": "hachure",
@@ -3230,7 +3230,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298030,
+      "updated": 1727257387015,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3241,12 +3241,12 @@
       "containerId": null,
       "originalText": "-r",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
       "version": 106,
-      "versionNonce": 142138646,
+      "versionNonce": 1634056785,
       "isDeleted": false,
       "id": "mOjJpqNmvaeD_a-AMWffO",
       "fillStyle": "hachure",
@@ -3266,7 +3266,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298031,
+      "updated": 1727257387016,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3277,7 +3277,7 @@
       "containerId": null,
       "originalText": "- hovorý systému aby zmazal \"home directory\" použivateľa",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -3316,7 +3316,7 @@
     {
       "type": "text",
       "version": 207,
-      "versionNonce": 2111809354,
+      "versionNonce": 480677695,
       "isDeleted": false,
       "id": "jJPx_05gK1NXV9hOekYuA",
       "fillStyle": "solid",
@@ -3336,7 +3336,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298031,
+      "updated": 1727257387017,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3347,12 +3347,12 @@
       "containerId": null,
       "originalText": "w\nid @username\n\npasswd @usr\n\n",
       "lineHeight": 1.25,
-      "baseline": 143
+      "baseline": 142
     },
     {
       "type": "text",
       "version": 240,
-      "versionNonce": 248040022,
+      "versionNonce": 1379682353,
       "isDeleted": false,
       "id": "sv2kbbAt54Sw9IdwLpuBD",
       "fillStyle": "solid",
@@ -3372,7 +3372,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298032,
+      "updated": 1727257387017,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3383,7 +3383,7 @@
       "containerId": null,
       "originalText": "- vypíše pripojených userov\n- info o uživateľovi\n  (ak není je vymazaný)\n- zmena hesla usrera",
       "lineHeight": 1.25,
-      "baseline": 93
+      "baseline": 92
     },
     {
       "type": "rectangle",
@@ -3417,7 +3417,7 @@
     {
       "type": "text",
       "version": 252,
-      "versionNonce": 918564362,
+      "versionNonce": 883969887,
       "isDeleted": false,
       "id": "uc56T_iOTdHwmvKx9dQdt",
       "fillStyle": "solid",
@@ -3437,7 +3437,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298033,
+      "updated": 1727257387020,
       "link": null,
       "locked": false,
       "fontSize": 26.399999999999917,
@@ -3760,7 +3760,7 @@
     {
       "type": "text",
       "version": 96,
-      "versionNonce": 925437846,
+      "versionNonce": 1757813265,
       "isDeleted": false,
       "id": "GWnqGaGnF-53yqMrhIcZu",
       "fillStyle": "solid",
@@ -3780,7 +3780,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1727199298034,
+      "updated": 1727257387021,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -3791,7 +3791,7 @@
       "containerId": null,
       "originalText": "ohľadom usera",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "arrow",
