@@ -1,0 +1,1 @@
+Napriek tomu vas poprosim aby ste si presli cykly typu for a while a podmienky v ramci samostudia.
