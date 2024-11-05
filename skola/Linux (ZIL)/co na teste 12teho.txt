@@ -1,0 +1,42 @@
+nemali by sme mat " " (medzery)
+
+recepty - sladke jedla
+		- nakipy
+		- kolace
+	- masove jedla
+		- kuracie
+		- bravcove
+	- vegetarianske jedla
+		- tofu
+		- tempeh
+
+co spravi zly prikaz									
+ mkdir -p recepty/sladke jedla/nakipy 								
+	  recepty/sladke jedla/kolace
+	  recepty/masove\ jedla/kuracie
+	  recepty/mosove\ jedla/bravcove
+	  recepty/vegetarianske\ jedla/tofu
+	  recepty/vegetarianske\ jedla/tempeh ....
+
+								nakreslit obrazok commandu co chce (mkdir...)
+
+								prikazy bez parametrov
+	cd	-	posunie nas do domovskeho priecinka
+	ls	-	vypise obsah priecinku v kt sme
+	cp	-	nic 
+	cat	-	caka na vstup a udaje co mu vpiseme nam da ako vystup
+
+								co roby prikaz
+	sort -n -r -k -t ":" file01>file02
+		
+	tr [:digit:] "#" < file01 > file02
+
+	head -n -5 file01
+
+	tail -n +7 file01
+
+	find /var/home -name "*." 2> /dev/null . . .
+	
+	grep Holub vtaci	(prepican -i -v -w)
+
+
