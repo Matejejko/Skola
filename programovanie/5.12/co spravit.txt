@@ -1,0 +1,31 @@
+1. Remove nth character from a string.
+	Write a Python program to remove the nth index character from a nonempty string. Use exception handling to catch an empty string.
+
+2. Remove odd index chars from a string.
+	Write a Python program to remove characters that have odd index values in a given string.
+
+3. Get first 3 chars of a string.
+	Write a Python function to get a string made of the first three characters of a specified string. If the length of the string is less than 3, return the original string.
+	Sample function and result :
+		first_three('ipy') -> ipy
+		first_three('python') -> pyt
+
+
+4. Reverse string if length is a multiple of 4.
+	Write a Python function to reverse a string if its length is a multiple of 4.
+
+
+BONUS 1: 
+	Count character frequency in a string.
+	Write a Python program to count the number of characters (character frequency) in a string.
+	
+	Sample String : google.com'
+	Expected Result : {'g': 2, 'o': 3, 'l': 1, 'e': 1, '.': 1, 'c': 1, 'm': 1}
+
+
+BONUS 2: 
+	Swap first 2 chars of 2 strings.
+	Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+	
+	Sample String : 'abc', 'xyz'
+	Expected Result : 'xyc abz'
