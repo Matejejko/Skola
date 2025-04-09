@@ -1,0 +1,76 @@
+Kategórie: DNS 
+Priraďte správne názvy DNS záznamov k popisu.
+	- Vytvára pár medzi IP adresou a názvom zariadenia pri reverznom vyhľadávaní = PTR záznam
+	- Vytv. pár medzi IPv6 adresou a názvom zariadenia pri doprednom vyhľadávaní = AAAA záznam
+	- umožňuje vytvárať aliasy pre už existujúce doménové mená = CNAME záznam
+	- vytv. pár medzi IP adresou a názvom servera pre spracovanie elektronickej pošty = MX záznam
+	- vytv. pár medzi IPv4 adresou a názvom zariadenia pri doprednom vyhľadávaní = A záznam
+
+Kategória: DNS
+Ako sa nazýva súbor záznamov, kt. slúžia na preklad IP adries na doménové meno?
+	- Reverse lookup zóna
+
+Kategória: DNS
+Ako nazývame nasledovnú doménu: mail.google.com
+	- Doména tretej úrovne
+
+Kategória: DNS 
+Ako sa nazýva súbor záznamov, kt. slúžia na preklad doménových mien na IP adresy?
+	- Forward lookup zóna
+
+Kategória: DNS 
+Akým príkazom si vieme overiť fungovanie prekladu doménových mien na IP adresy a naopak?
+	- nslookup
+
+Kategória: DNS
+vyberte správne tvrdenie o sekundárnom DNS serveri.
+	- Zónové záznamy upravujeme len na primárnom DNS serveri, sekundárny si ich stiahne od primárneho.
+
+kategória: DHCP 
+Aký je rozsah adries a maska siete, ktorú si operačný systém nastaví sám, ak nenájde v sieti DHCP server?
+	- 169.254.0.1 – 169.254.255.254 / 255.255.0.0
+
+Kategória: DHCP
+Vyberte správne tvrdenie týkajúce sa času prenájmu IP parametrov (lease time) pri DHCP.
+	- Pokiaľ neuplynie lease time, server nemôže prideliť dané parametre inému zariadeniu aj napriek tomu, že 	  pôvodné zariadenie je už vypnuté.
+
+Kategória: DHCP
+priraďte správne názvy k definíciám jednotlivých DHCP zariadení.
+	- PC požaduje IP parametre od servera	= DHCP klient
+	- PC, kt. preposiela DHCP požiadavky a odpovede do iných sietí	= DHCP relay
+	- PC poskytujúci IP parametre iným zariadeniam v sieti 	= DHCP server
+
+Kategória: DHCP
+ak potrebujeme, aby sa určitému zariadeniu v sieti prideľovala vždy rovnaká IP adresa, nakonfigurujeme tzv. rezerváciu. V tom prípade sa IP adresa spáruje s ďaľším parametrom zariadenia. Ako sa volá daný parameter?
+	- MAC adresa
+
+Na akom type komunikácie prebieha väčšia časť DHCP protokolu?
+	- Broadcast
+
+zhodnoťte pravdivosť výroku: "V internete existujú DNS servert, označované ako root DNS servery, na kt. sa uploadujú všetky zmeny v doménových záznamoch, kt. vykonajú sieťoví administrátori vo svojich doménach."
+	- nepravda
+
+vyberte dve generické domény
+	- .com
+	- .info
+
+ako môže služba DNS pomôcť pri rozkladaní záťaže (load balancing) na aplikačné servery?
+	- Vytvorením A záznamov s rovnakými menami a rôznymi IP adresami vráti každému resolveru inú IP, čím sa 	  potom klient spája s iným serverom.
+
+zhodnoťte, či je výrok pravdivý: "Náš PC sa v prípade, že potrebuje preložiť názov domény na IP adresu, zakaždým na tento preklad opýta DNS servera, kt. má uvedený v sieťových nastaveniach"
+	- nepravda
+
+Zoraďte DHCP správy v poradí, v akom prebiehajú medzi klientom a serverom od bodu, kedy sa klient zapne a potrebuje získať IP adresu. Hore nech je prvá a dole štvrtá správa v poradí.
+	- DHCP Discover
+	- DHCP Offer
+	- DHCP Request
+	- DHCP ACK/NAK
+
+Posúďte pravdivosť výroku: "V jednej LAN sieti môže existovať súčasne viacero DHCP serverov, pričom tento stav nepovažujeme za chybu alebo útok na sieť"
+	- pravda
+
+Ako sa nazýva celé meno, kt DNS prekladá na adresu zariadenia?
+	- Fully Qualified Domain Name
+
+
+
