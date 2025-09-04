@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 87,
-      "versionNonce": 295107514,
+      "version": 88,
+      "versionNonce": 706922740,
       "isDeleted": false,
       "id": "k1St2We2LWfHmE1vOurzA",
       "fillStyle": "solid",
@@ -28,14 +28,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1730823787448,
+      "updated": 1756828043788,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "type": "rectangle",
-      "version": 98,
-      "versionNonce": 92478374,
+      "version": 99,
+      "versionNonce": 352415820,
       "isDeleted": false,
       "id": "3-FTrYo4Umoif4T6fJNGs",
       "fillStyle": "solid",
@@ -57,14 +58,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1730823777398,
+      "updated": 1756828043788,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a1"
     },
     {
       "type": "rectangle",
-      "version": 139,
-      "versionNonce": 2068247590,
+      "version": 140,
+      "versionNonce": 1246071412,
       "isDeleted": false,
       "id": "_L1SuGU18llQ3A-FSHz_q",
       "fillStyle": "solid",
@@ -86,14 +88,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1730823856987,
+      "updated": 1756828043788,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a2"
     },
     {
       "type": "text",
-      "version": 338,
-      "versionNonce": 1578221401,
+      "version": 339,
+      "versionNonce": 243631820,
       "isDeleted": false,
       "id": "-Zv0NddOlwA25QlrYBgVi",
       "fillStyle": "solid",
@@ -113,7 +116,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1730823911285,
+      "updated": 1756828043788,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -124,12 +127,14 @@
       "containerId": null,
       "originalText": "der/am: Montag - Sonntag\ndie Woche, pro Woche\ndas Wochenende\nder Unterricht\ndie Unterrichtsstunde\ndas Training, Sprechtraining\ndie Landeskunde\ndie Ubung\ndie Pause, Kaffeepause\nder Kaffee\nder Test\ndie Mediothek\ndie Discothek, Disco\nwann\nwie oft\nwie lange\nwie viel\nder Stundenplan\nbiginnen\nder Beginn\ndauern\nendedn",
       "lineHeight": 1.25,
-      "baseline": 543
+      "baseline": 543,
+      "index": "a3",
+      "autoResize": true
     },
     {
       "type": "text",
-      "version": 337,
-      "versionNonce": 342834871,
+      "version": 338,
+      "versionNonce": 731126772,
       "isDeleted": false,
       "id": "hJ5G22ybZ7UYRasCMxTpC",
       "fillStyle": "solid",
@@ -149,7 +154,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1730823911286,
+      "updated": 1756828043788,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -160,12 +165,14 @@
       "containerId": null,
       "originalText": "\ntýždeň, za týždeň\nvíken\nvyučovanie\nvyučovacia hodina\n\nkrajinoveda\ncvičenie\nprestávka\nkáva\ntest\nmediotéka\ndisko\nkedy\nako často\nako dlho\nkoľko\nrozvrh rohín\nzačať\nzačiatok\ntrvať\nkončiť",
       "lineHeight": 1.25,
-      "baseline": 543
+      "baseline": 543,
+      "index": "a4",
+      "autoResize": true
     },
     {
       "type": "text",
-      "version": 129,
-      "versionNonce": 473066553,
+      "version": 130,
+      "versionNonce": 474139980,
       "isDeleted": false,
       "id": "S26VR0g7orkVZYBV_J67s",
       "fillStyle": "solid",
@@ -185,7 +192,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1730823911286,
+      "updated": 1756828043788,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -196,11 +203,52 @@
       "containerId": null,
       "originalText": "-\n-\n-\n-\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-",
       "lineHeight": 1.25,
-      "baseline": 518
+      "baseline": 518,
+      "index": "a5",
+      "autoResize": true
+    },
+    {
+      "id": "bDtbetS7P4zCXnZs2G2cz",
+      "type": "text",
+      "x": 1014,
+      "y": 148,
+      "width": 410.59967041015625,
+      "height": 550,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": null,
+      "seed": 1041273932,
+      "version": 273,
+      "versionNonce": 1381223628,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756828420588,
+      "link": null,
+      "locked": false,
+      "text": "der/am: Montag - Sonntag\ndie Woche, pro Woche - týždeň, za týždeň\ndas Wochenende - víkend\nder Unterricht - vyučovanie\ndie Unterrichtsstunde - vyučovacia hodina\ndas Training, Sprechtraining - trenovanie\ndie Landeskunde - krajinoveda\ndie Ubung - cvičenie\ndie Pause, Kaffeepause - prestávka\nder Kaffee - káva\nder Test - test\ndie Mediothek - mediotéka\ndie Discothek, Disco - disko\nwann - kedy\nwie oft - ako často\nwie lange - ako dlho\nwie viel - koľko\nder Stundenplan - rozvrh hodín\nbiginnen - začať\nder Beginn - začiatok\ndauern - trvať\nendedn - končiť",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "der/am: Montag - Sonntag\ndie Woche, pro Woche - týždeň, za týždeň\ndas Wochenende - víkend\nder Unterricht - vyučovanie\ndie Unterrichtsstunde - vyučovacia hodina\ndas Training, Sprechtraining - trenovanie\ndie Landeskunde - krajinoveda\ndie Ubung - cvičenie\ndie Pause, Kaffeepause - prestávka\nder Kaffee - káva\nder Test - test\ndie Mediothek - mediotéka\ndie Discothek, Disco - disko\nwann - kedy\nwie oft - ako často\nwie lange - ako dlho\nwie viel - koľko\nder Stundenplan - rozvrh hodín\nbiginnen - začať\nder Beginn - začiatok\ndauern - trvať\nendedn - končiť",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}

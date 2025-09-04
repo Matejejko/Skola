@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 143,
-      "versionNonce": 1733432989,
+      "version": 144,
+      "versionNonce": 2120118807,
       "isDeleted": false,
       "id": "n3YfJzKhqcgsGMeEf3VMN",
       "fillStyle": "solid",
@@ -28,14 +28,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1733250577258,
+      "updated": 1756828517912,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "type": "rectangle",
-      "version": 88,
-      "versionNonce": 1255371965,
+      "version": 89,
+      "versionNonce": 1921687257,
       "isDeleted": false,
       "id": "VzpWcL1FGb8_Wlfi5P9MH",
       "fillStyle": "solid",
@@ -57,14 +58,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1733250606843,
+      "updated": 1756828517912,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a1"
     },
     {
       "type": "text",
-      "version": 410,
-      "versionNonce": 150507983,
+      "version": 411,
+      "versionNonce": 1209407287,
       "isDeleted": false,
       "id": "xlh89SuoNFzAYcnPtUU-6",
       "fillStyle": "solid",
@@ -84,7 +86,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1733654896842,
+      "updated": 1756828517912,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -95,12 +97,14 @@
       "containerId": null,
       "originalText": "die Butter\ndas Ei\ndie Milch\nder Kuchen\nDer Apfel\ndas Brot\nder Joghurt\nder Fisch\ndas Fleisch\ndas Obst\ndas Gemüse\ndie Banane\ndas Essen\nder Schinken\ndie Torte\ndie Wurst\ndas Schnitzel\ndas Eis\nWürstchen\ndie Pizza\nKartoffeln\ndas Gebäck\ndie Semmel\ndie Baguette\nNudeln\nSpaghetti\nPommes Frites\ndie Käse\ndie Sahne\ndie Salami\nder Schweinebraten\ndas Rindfleisch\nKräuter",
       "lineHeight": 1.25,
-      "baseline": 818
+      "baseline": 818,
+      "index": "a2",
+      "autoResize": true
     },
     {
       "type": "rectangle",
-      "version": 117,
-      "versionNonce": 730387549,
+      "version": 118,
+      "versionNonce": 2103663545,
       "isDeleted": false,
       "id": "gtFXdOtc_N4Jx6fg-UiOe",
       "fillStyle": "solid",
@@ -122,14 +126,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1733250615225,
+      "updated": 1756828517912,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a3"
     },
     {
       "type": "text",
-      "version": 371,
-      "versionNonce": 233666209,
+      "version": 372,
+      "versionNonce": 31201367,
       "isDeleted": false,
       "id": "fywxLXGVxfTifCgM1en8r",
       "fillStyle": "solid",
@@ -149,7 +154,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1733654896844,
+      "updated": 1756828517912,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -160,11 +165,52 @@
       "containerId": null,
       "originalText": "maslo\nvajce\nmlieko\nkoláč\njablko\nchlieb\njogurt\nryba\nmäso\novocie\nzelenina\nbanán\njedlo\nšunka\ntorta\nklobása\nrezeň\nzmrzlina\npárky\npizza\nzemiaky\npečivo\nžemľa\nbageta\nnudle\nšpagety\nhranolky\nsyr\nsmotana\nsaláma\nbravčové pečené\nhovädzie mäso\nbylinky",
       "lineHeight": 1.25,
-      "baseline": 818
+      "baseline": 818,
+      "index": "a4",
+      "autoResize": true
+    },
+    {
+      "id": "jCnz6XOeF-fXea2qZ_Q7q",
+      "type": "text",
+      "x": 761,
+      "y": 60.5,
+      "width": 366.2796936035156,
+      "height": 825,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ac",
+      "roundness": null,
+      "seed": 74564025,
+      "version": 552,
+      "versionNonce": 410533943,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756828912699,
+      "link": null,
+      "locked": false,
+      "text": "die Butter - maslo\ndas Ei - vajce\ndie Milch - mlieko\nder Kuchen - koláč\nDer Apfel - jablko\ndas Brot - chlieb\nder Joghurt - jogurt\nder Fisch - ryba\ndas Fleisch - mäso\ndas Obst - ovocie\ndas Gemüse - zelenina\ndie Banane - banán\ndas Essen - jedlo\nder Schinken - šunka\ndie Torte - torta\ndie Wurst - klobása\ndas Schnitzel - rezeň\ndas Eis - zmrzlina\nWürstchen - párky\ndie Pizza - pizza\nKartoffeln - zemiaky\ndas Gebäck - pečivo\ndie Semmel - žemľa\ndie Baguette - bageta\nNudeln - nudle (cestoviny)\nSpaghetti - špagety\nPommes Frites - hranolky\ndie Käse - syr\ndie Sahne - smotana\ndie Salami - saláma\nder Schweinebraten - bravčové pečené\ndas Rindfleisch - hovädzie mäso\nKräuter - bylinky",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "die Butter - maslo\ndas Ei - vajce\ndie Milch - mlieko\nder Kuchen - koláč\nDer Apfel - jablko\ndas Brot - chlieb\nder Joghurt - jogurt\nder Fisch - ryba\ndas Fleisch - mäso\ndas Obst - ovocie\ndas Gemüse - zelenina\ndie Banane - banán\ndas Essen - jedlo\nder Schinken - šunka\ndie Torte - torta\ndie Wurst - klobása\ndas Schnitzel - rezeň\ndas Eis - zmrzlina\nWürstchen - párky\ndie Pizza - pizza\nKartoffeln - zemiaky\ndas Gebäck - pečivo\ndie Semmel - žemľa\ndie Baguette - bageta\nNudeln - nudle (cestoviny)\nSpaghetti - špagety\nPommes Frites - hranolky\ndie Käse - syr\ndie Sahne - smotana\ndie Salami - saláma\nder Schweinebraten - bravčové pečené\ndas Rindfleisch - hovädzie mäso\nKräuter - bylinky",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}

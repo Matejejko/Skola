@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 453,
-      "versionNonce": 2093437312,
+      "version": 454,
+      "versionNonce": 2117198031,
       "isDeleted": false,
       "id": "4KuH_eVE6-hgP3ud8ofvR",
       "fillStyle": "solid",
@@ -28,14 +28,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1739112644965,
+      "updated": 1756831365094,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "type": "rectangle",
-      "version": 386,
-      "versionNonce": 446390656,
+      "version": 387,
+      "versionNonce": 519346081,
       "isDeleted": false,
       "id": "0qc9wWeh5TJ-0uR-VpjRz",
       "fillStyle": "solid",
@@ -57,9 +58,10 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1739112604270,
+      "updated": 1756831365094,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a1"
     },
     {
       "id": "eHbk4o2vX5xDY3Oc09Acx",
@@ -82,13 +84,14 @@
         "type": 3
       },
       "seed": 1384198528,
-      "version": 128,
-      "versionNonce": 920241792,
+      "version": 129,
+      "versionNonce": 1778052847,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1739112658150,
+      "boundElements": [],
+      "updated": 1756831365094,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a2"
     },
     {
       "id": "3UiQXigj5KUKsROSRR4JW",
@@ -109,11 +112,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 301921920,
-      "version": 388,
-      "versionNonce": 1925654144,
+      "version": 389,
+      "versionNonce": 2057501569,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1739112393708,
+      "boundElements": [],
+      "updated": 1756831365094,
       "link": null,
       "locked": false,
       "text": "das Wetter\nzeigen\ndas Hotel\nder Zug\nder Stau\ndas Verkehrsmittel\ndie Sprache\nzuerst\nder Sitzplatz\nvoll\nweit\nversichert\nder Schluss\nspeichern\ndie Strasse\ndie Strassenbahn\ntippen auf\nverfügbar\nvielleicht\nder Wagen\nbevorzugen\ndas Theater\neintragen\ndie Daten speichern\ndie Tastatur\neine Taste Drücken\ndie Navigation",
@@ -124,7 +127,9 @@
       "baseline": 668,
       "containerId": null,
       "originalText": "das Wetter\nzeigen\ndas Hotel\nder Zug\nder Stau\ndas Verkehrsmittel\ndie Sprache\nzuerst\nder Sitzplatz\nvoll\nweit\nversichert\nder Schluss\nspeichern\ndie Strasse\ndie Strassenbahn\ntippen auf\nverfügbar\nvielleicht\nder Wagen\nbevorzugen\ndas Theater\neintragen\ndie Daten speichern\ndie Tastatur\neine Taste Drücken\ndie Navigation",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a3",
+      "autoResize": true
     },
     {
       "id": "lon0pzu5jvc2jBUXJPyvz",
@@ -145,11 +150,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 209211776,
-      "version": 367,
-      "versionNonce": 343824000,
+      "version": 368,
+      "versionNonce": 834484495,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1739112611530,
+      "boundElements": [],
+      "updated": 1756831365094,
       "link": null,
       "locked": false,
       "text": "počasie\nukázať\nhotel\nvlak\nzápcha\ndopravný prostriedok\njazyk\nnajprv\nmiesto na sedenie\nplný\nďaleko\npoistený\nkoniec, záver\nuložiť do pamäti\ncesta, ulica\nelektrička\npísať na klávesnici\nk dispozícii\nasi, možno\nvozidlo\nuprednostniť\ndivadlo\nzapísať, vpísať\nuložiť dáta\nklávesnica\nstlačiť klávesu\nnavigácia",
@@ -160,11 +165,52 @@
       "baseline": 668,
       "containerId": null,
       "originalText": "počasie\nukázať\nhotel\nvlak\nzápcha\ndopravný prostriedok\njazyk\nnajprv\nmiesto na sedenie\nplný\nďaleko\npoistený\nkoniec, záver\nuložiť do pamäti\ncesta, ulica\nelektrička\npísať na klávesnici\nk dispozícii\nasi, možno\nvozidlo\nuprednostniť\ndivadlo\nzapísať, vpísať\nuložiť dáta\nklávesnica\nstlačiť klávesu\nnavigácia",
+      "lineHeight": 1.25,
+      "index": "a4",
+      "autoResize": true
+    },
+    {
+      "id": "7JG4eVTlenMPzaSBOLexx",
+      "type": "text",
+      "x": 824.2005661346642,
+      "y": 18.590836131526032,
+      "width": 409.439697265625,
+      "height": 675,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": null,
+      "seed": 1397765775,
+      "version": 433,
+      "versionNonce": 334081889,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756832156594,
+      "link": null,
+      "locked": false,
+      "text": "das Wetter - počasie\nzeigen - ukázať\ndas Hotel - hotel\nder Zug - vlak\nder Stau - zápcha\ndas Verkehrsmittel - dopravný prostriedok\ndie Sprache - jazyk\nzuerst - najprv\nder Sitzplatz - miesto na sedenie\nvoll - plný\nweit - ďaleko\nversichert - poistený\nder Schluss - koniec, záver\nspeichern - uložiť do pamäti\ndie Strasse - cesta, ulica\ndie Strassenbahn - električka\ntippen auf - písať na klávesnici\nverfügbar - k dispozícii\nvielleicht - asi, možno\nder Wagen - vozidlo\nbevorzugen - uprednostniť\ndas Theater - divadlo\neintragen - zapísať, vpísať\ndie Daten speichern - uložiť dáta\ndie Tastatur - klávesnica\neine Taste Drücken - stlačiť klávesu\ndie Navigation - navigácia",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "das Wetter - počasie\nzeigen - ukázať\ndas Hotel - hotel\nder Zug - vlak\nder Stau - zápcha\ndas Verkehrsmittel - dopravný prostriedok\ndie Sprache - jazyk\nzuerst - najprv\nder Sitzplatz - miesto na sedenie\nvoll - plný\nweit - ďaleko\nversichert - poistený\nder Schluss - koniec, záver\nspeichern - uložiť do pamäti\ndie Strasse - cesta, ulica\ndie Strassenbahn - električka\ntippen auf - písať na klávesnici\nverfügbar - k dispozícii\nvielleicht - asi, možno\nder Wagen - vozidlo\nbevorzugen - uprednostniť\ndas Theater - divadlo\neintragen - zapísať, vpísať\ndie Daten speichern - uložiť dáta\ndie Tastatur - klávesnica\neine Taste Drücken - stlačiť klávesu\ndie Navigation - navigácia",
+      "autoResize": true,
       "lineHeight": 1.25
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}

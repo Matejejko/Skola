@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 501,
-      "versionNonce": 1413805814,
+      "version": 502,
+      "versionNonce": 1868071400,
       "isDeleted": false,
       "id": "vQXnMuIAkbLHd3z9no6a9",
       "fillStyle": "solid",
@@ -28,14 +28,15 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1739112070897,
+      "updated": 1756831359938,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "type": "rectangle",
-      "version": 340,
-      "versionNonce": 1294537898,
+      "version": 341,
+      "versionNonce": 836169880,
       "isDeleted": false,
       "id": "V6-PtFE7yXANfkEJgQ-u3",
       "fillStyle": "solid",
@@ -57,9 +58,10 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1739112021187,
+      "updated": 1756831359938,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a1"
     },
     {
       "id": "vtPcvawlvnDYAwunCpaKt",
@@ -82,13 +84,14 @@
         "type": 3
       },
       "seed": 234098282,
-      "version": 123,
-      "versionNonce": 274788534,
+      "version": 124,
+      "versionNonce": 801113320,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1739111995587,
+      "boundElements": [],
+      "updated": 1756831359938,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a2"
     },
     {
       "id": "u7PizjAmuxqDYxZNgfuVp",
@@ -109,11 +112,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1102875510,
-      "version": 307,
-      "versionNonce": 1288052022,
+      "version": 308,
+      "versionNonce": 803020184,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1739111793174,
+      "boundElements": [],
+      "updated": 1756831359938,
       "link": null,
       "locked": false,
       "text": "der Preis\nrechts\nschlecht\ndie Haltestelle\ngesund\nschnell\ngleich\nnehmen\nkrank\nkommen\ngut\nder Ort\nkennen\ndie S-Bahn\ngünstig\nlangsam\nder Regenschirm\ndas Gerät\ndie Hinfahrt\nder Flug\nhoch\nkosten\nlang\nnennen\nnur\noben\nder Parklplatz\ndie Rückfahrt\nder Rückflug",
@@ -124,7 +127,9 @@
       "baseline": 718,
       "containerId": null,
       "originalText": "der Preis\nrechts\nschlecht\ndie Haltestelle\ngesund\nschnell\ngleich\nnehmen\nkrank\nkommen\ngut\nder Ort\nkennen\ndie S-Bahn\ngünstig\nlangsam\nder Regenschirm\ndas Gerät\ndie Hinfahrt\nder Flug\nhoch\nkosten\nlang\nnennen\nnur\noben\nder Parklplatz\ndie Rückfahrt\nder Rückflug",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a3",
+      "autoResize": true
     },
     {
       "id": "OMnUNdv0qeEZw4sMIudhu",
@@ -145,11 +150,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 644534838,
-      "version": 348,
-      "versionNonce": 1015484458,
+      "version": 349,
+      "versionNonce": 507455464,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1739112061890,
+      "boundElements": [],
+      "updated": 1756831359938,
       "link": null,
       "locked": false,
       "text": "cena\nvpravo\nzlý\nzastávka\nzdravý\nrýchlo\nhneď\nvziať\nchorý\nprísť\ndobrý\nmiesto\npoznať\nmestská rýchlodráha\nvýhodný\npomaly\ndáždnik\nprístroj\ncesta tam\nlet\nvysoký\nstáť (cena)\ndlho\nmenovať\nlen, iba\nhore\nparkovisko\ncesta späť\nspiatočný let",
@@ -160,11 +165,52 @@
       "baseline": 718,
       "containerId": null,
       "originalText": "cena\nvpravo\nzlý\nzastávka\nzdravý\nrýchlo\nhneď\nvziať\nchorý\nprísť\ndobrý\nmiesto\npoznať\nmestská rýchlodráha\nvýhodný\npomaly\ndáždnik\nprístroj\ncesta tam\nlet\nvysoký\nstáť (cena)\ndlho\nmenovať\nlen, iba\nhore\nparkovisko\ncesta späť\nspiatočný let",
+      "lineHeight": 1.25,
+      "index": "a4",
+      "autoResize": true
+    },
+    {
+      "id": "yL5-nDiZzXiZeJy1KwZ0o",
+      "type": "text",
+      "x": 753.8000183105469,
+      "y": 15.00004267692566,
+      "width": 325.31976318359375,
+      "height": 725,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": null,
+      "seed": 989337832,
+      "version": 363,
+      "versionNonce": 1619217560,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756832338392,
+      "link": null,
+      "locked": false,
+      "text": "der Preis - cena\nrechts - vpravo\nschlecht - zlý\ndie Haltestelle - zastávka\ngesund - zdravý\nschnell - rýchlo\ngleich - hneď\nnehmen - vziať\nkrank - chrý\nkommen - prísť\ngut - dobrý\nder Ort - miesto\nkennen - poznať\ndie S-Bahn - mestská rýchlodráha\ngünstig - výhodný\nlangsam - pamaly\nder Regenschirm - dáždnik\ndas Gerät - prístroj\ndie Hinfahrt - cesta tam\nder Flug - let\nhoch - vysoký\nkosten - stáť (cena)\nlang - dlho\nnennen - menovať\nnur - len, iba\noben - hore\nder Parklplatz - parkovisko\ndie Rückfahrt - cesta späť\nder Rückflug - spiatočný let",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "der Preis - cena\nrechts - vpravo\nschlecht - zlý\ndie Haltestelle - zastávka\ngesund - zdravý\nschnell - rýchlo\ngleich - hneď\nnehmen - vziať\nkrank - chrý\nkommen - prísť\ngut - dobrý\nder Ort - miesto\nkennen - poznať\ndie S-Bahn - mestská rýchlodráha\ngünstig - výhodný\nlangsam - pamaly\nder Regenschirm - dáždnik\ndas Gerät - prístroj\ndie Hinfahrt - cesta tam\nder Flug - let\nhoch - vysoký\nkosten - stáť (cena)\nlang - dlho\nnennen - menovať\nnur - len, iba\noben - hore\nder Parklplatz - parkovisko\ndie Rückfahrt - cesta späť\nder Rückflug - spiatočný let",
+      "autoResize": true,
       "lineHeight": 1.25
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}

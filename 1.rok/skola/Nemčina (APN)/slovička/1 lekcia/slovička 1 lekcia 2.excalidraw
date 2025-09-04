@@ -24,13 +24,14 @@
         "type": 3
       },
       "seed": 1646664210,
-      "version": 144,
-      "versionNonce": 1828286546,
+      "version": 145,
+      "versionNonce": 1330206750,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727458196117,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "id": "dst018FIae7yb7W3tmVJf",
@@ -53,13 +54,14 @@
         "type": 3
       },
       "seed": 34500562,
-      "version": 127,
-      "versionNonce": 467914318,
+      "version": 128,
+      "versionNonce": 648954050,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727457652983,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a1"
     },
     {
       "id": "NzgmsKE7T5EUPrUic6IrK",
@@ -82,20 +84,21 @@
         "type": 3
       },
       "seed": 1136115474,
-      "version": 253,
-      "versionNonce": 822759502,
+      "version": 254,
+      "versionNonce": 316974174,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727458203818,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a2"
     },
     {
       "id": "giq1ApL1v2esZS_TQqrWr",
       "type": "text",
-      "x": 495.5400585937955,
-      "y": 150.92482607891873,
-      "width": 152.35911500989434,
+      "x": 496.5400585937955,
+      "y": 149.92482607891873,
+      "width": 152.33609008789062,
       "height": 832.4760723302597,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -109,11 +112,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 906959122,
-      "version": 294,
-      "versionNonce": 498916626,
+      "version": 312,
+      "versionNonce": 1702509570,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727457600660,
+      "boundElements": [],
+      "updated": 1756826806079,
       "link": null,
       "locked": false,
       "text": "und\naber\noder\nauch\nin\naus\nda\nnicht\nrichtig\nfalsch\nandere\nbegrussen\nberichten\nbuchstabieren\nfragen\nantworten auf\nheissen\nwohnen\nkommen aus\nliegen\nlernen\nmachhen\nhoren\nlesen\nschreiben\nspielen\nsich vorstellen\nwas\nwie\nwo\nwoher",
@@ -124,7 +127,9 @@
       "baseline": 823,
       "containerId": null,
       "originalText": "und\naber\noder\nauch\nin\naus\nda\nnicht\nrichtig\nfalsch\nandere\nbegrussen\nberichten\nbuchstabieren\nfragen\nantworten auf\nheissen\nwohnen\nkommen aus\nliegen\nlernen\nmachhen\nhoren\nlesen\nschreiben\nspielen\nsich vorstellen\nwas\nwie\nwo\nwoher",
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a3",
+      "autoResize": true
     },
     {
       "id": "5DrkhL0PjTREoD2PODBJr",
@@ -145,11 +150,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1736568078,
-      "version": 66,
-      "versionNonce": 1322824974,
+      "version": 67,
+      "versionNonce": 365717662,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727457600660,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
       "locked": false,
       "points": [
@@ -164,10 +169,8 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        0.0001,
-        0.0001
-      ]
+      "lastCommittedPoint": null,
+      "index": "a4"
     },
     {
       "id": "0Z4cpJM0mzDsUZ14QE0mZ",
@@ -188,11 +191,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 411901902,
-      "version": 66,
-      "versionNonce": 805530322,
+      "version": 67,
+      "versionNonce": 1241675842,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727457600661,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
       "locked": false,
       "points": [
@@ -207,10 +210,8 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        0.0001,
-        0.0001
-      ]
+      "lastCommittedPoint": null,
+      "index": "a5"
     },
     {
       "id": "9jJ9zTM0fFSewB0mgoHwB",
@@ -231,11 +232,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1309886094,
-      "version": 66,
-      "versionNonce": 1415242574,
+      "version": 67,
+      "versionNonce": 665953502,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727457600661,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
       "locked": false,
       "points": [
@@ -250,10 +251,8 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        0.0001,
-        0.0001
-      ]
+      "lastCommittedPoint": null,
+      "index": "a6"
     },
     {
       "id": "RvODlpW98tpd_8lCXSTrw",
@@ -274,11 +273,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 375056718,
-      "version": 66,
-      "versionNonce": 1571963026,
+      "version": 67,
+      "versionNonce": 558768130,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727457600661,
+      "boundElements": [],
+      "updated": 1756826677547,
       "link": null,
       "locked": false,
       "points": [
@@ -293,18 +292,16 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        0.0001,
-        0.0001
-      ]
+      "lastCommittedPoint": null,
+      "index": "a7"
     },
     {
       "id": "0KNTdYEHFy84oC1qukmgY",
       "type": "text",
       "x": 685.4505491998366,
       "y": 153.94262183835295,
-      "width": 219.4055119977547,
-      "height": 827.2009402744178,
+      "width": 219.33241271972656,
+      "height": 827.2009402744177,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffc9c9",
@@ -317,11 +314,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 223868306,
-      "version": 473,
-      "versionNonce": 751108306,
+      "version": 475,
+      "versionNonce": 283798914,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1727458159702,
+      "boundElements": [],
+      "updated": 1756826708467,
       "link": null,
       "locked": false,
       "text": "- a\n- ale\n- alebo\n- tiež, aj\n- v\n- z\n- tu\n- slovesný zápor ne-\n- správne\n- nesprávne\n- iné/í, ostatné/í\n- privítať, pozdraviť\n- podať správu\n- hláskovať\n- pýtať sa\n- odpovedať na\n- volať sa\n- bývať\n- pochádzať z\n- ležať\n- učiť sa\n- robiť\n- počuť, počúvať\n- čítať\n- písať\n- hrať, hrať sa\n- predstaviť sa\n- čo\n- ako\n- kde\n- odkiaľ",
@@ -332,11 +329,52 @@
       "baseline": 818.0000000000001,
       "containerId": null,
       "originalText": "- a\n- ale\n- alebo\n- tiež, aj\n- v\n- z\n- tu\n- slovesný zápor ne-\n- správne\n- nesprávne\n- iné/í, ostatné/í\n- privítať, pozdraviť\n- podať správu\n- hláskovať\n- pýtať sa\n- odpovedať na\n- volať sa\n- bývať\n- pochádzať z\n- ležať\n- učiť sa\n- robiť\n- počuť, počúvať\n- čítať\n- písať\n- hrať, hrať sa\n- predstaviť sa\n- čo\n- ako\n- kde\n- odkiaľ",
+      "lineHeight": 1.25,
+      "index": "a8",
+      "autoResize": true
+    },
+    {
+      "id": "tCVfrcDITAyzsHGOfoqRF",
+      "type": "text",
+      "x": 995.9646375093887,
+      "y": 209.4596942428792,
+      "width": 297.559814453125,
+      "height": 775,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": null,
+      "seed": 795465758,
+      "version": 288,
+      "versionNonce": 62878814,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756826952323,
+      "link": null,
+      "locked": false,
+      "text": "und - a\naber - ale\noder - alebo\nauch - tiež, aj\nin - v\naus - z\nda - tu\nnicht - slovesný zápor ne-\nrichtig - správne\nfalsch - nesprávne\nandere - iné/í, ostatné/í\nbegrüssen - privítať, pozdraviť\nberichten - podať správu\nbesuchstabieren - hláskovať\nfragen - pýtať sa\nantworten auf - odpovedať na\nheissen - volať sa\nwohnen - bývať\nkommen aus - pochádzať z\nliegen - ležať\nlernen - učiť sa\nmachen - robiť\nhören - počuť, počúvať\nlesen - čítať\nschreiben - písať\nspielen - hrať, hrať sa\nsich vorstellen - predstaviť sa\nwas - čo\nwie - ako\nwo - kde\nwoher - odkiaľ",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "und - a\naber - ale\noder - alebo\nauch - tiež, aj\nin - v\naus - z\nda - tu\nnicht - slovesný zápor ne-\nrichtig - správne\nfalsch - nesprávne\nandere - iné/í, ostatné/í\nbegrüssen - privítať, pozdraviť\nberichten - podať správu\nbesuchstabieren - hláskovať\nfragen - pýtať sa\nantworten auf - odpovedať na\nheissen - volať sa\nwohnen - bývať\nkommen aus - pochádzať z\nliegen - ležať\nlernen - učiť sa\nmachen - robiť\nhören - počuť, počúvať\nlesen - čítať\nschreiben - písať\nspielen - hrať, hrať sa\nsich vorstellen - predstaviť sa\nwas - čo\nwie - ako\nwo - kde\nwoher - odkiaľ",
+      "autoResize": true,
       "lineHeight": 1.25
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}
